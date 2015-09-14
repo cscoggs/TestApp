@@ -2,5 +2,7 @@
     <string name="app_name">My Application</string>
 
     <string name="hello_world">Application working!</string>
+
+    <string name="foobar">foo</string>
     <string name="action_settings">Settings</string>
 </resources>
