@@ -3,6 +3,6 @@
 
     <string name="hello_world">Application working!</string>
 
-    <string name="foobar">foo</string>
+    <string name="foobar">foo1</string>
     <string name="action_settings">Settings</string>
 </resources>
